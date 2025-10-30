@@ -11,7 +11,7 @@ using WebAPI.Data;
 namespace WebAPI.Migrations
 {
     [DbContext(typeof(TasksSystemDBContext))]
-    [Migration("20251028134654_InitialDB")]
+    [Migration("20251030221115_InitialDB")]
     partial class InitialDB
     {
         /// <inheritdoc />
