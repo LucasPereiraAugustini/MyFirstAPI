@@ -1,7 +1,11 @@
 
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Refit;
 using WebAPI.Data;
+using WebAPI.Integration;
+using WebAPI.Integration.Interfaces;
+using WebAPI.Integration.Refit;
 using WebAPI.Repositories;
 using WebAPI.Repositories.Interfaces;
 
@@ -27,6 +31,12 @@ namespace WebAPI
 
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+            builder.Services.AddScoped<IViaCepIntegration, ViaCepIntegration>();
+
+            builder.Services.AddRefitClient<IViaCepIntegrationRefit>().ConfigureHttpClient(c =>
+            {
+                c.BaseAddress = new Uri("https://viacep.com.br");
+            });
 
             var app = builder.Build();
 

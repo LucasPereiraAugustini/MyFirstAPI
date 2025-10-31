@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "WebAPI.Controllers.CepController",
+    "Method": "LisAddresData",
+    "RelativePath": "api/Cep/{cep}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cep",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPI.Integration.Response.ViaCepResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "WebAPI.Controllers.TaskController",
     "Method": "SearchAllTasks",
     "RelativePath": "api/Task",
