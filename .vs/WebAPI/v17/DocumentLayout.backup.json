@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\MyFirstAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|d:\\c#\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\C#\\MyFirstAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "D:\\C#\\MyFirstAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T22:43:19.594Z",
+              "WhenOpened": "2025-10-31T12:32:37.006Z",
               "EditorCaption": ""
             }
           ]

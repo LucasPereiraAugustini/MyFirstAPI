@@ -277,3 +277,4 @@ D:\C#\MyFirstAPI\obj\Debug\net8.0\refint\WebAPI.dll
 D:\C#\MyFirstAPI\obj\Debug\net8.0\WebAPI.pdb
 D:\C#\MyFirstAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 D:\C#\MyFirstAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\lucas.augustini\source\repos\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
