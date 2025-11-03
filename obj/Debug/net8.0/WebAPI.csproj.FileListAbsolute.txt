@@ -288,3 +288,4 @@ C:\Users\lucas.augustini\source\repos\WebAPI\bin\Debug\net8.0\Microsoft.Extensio
 C:\Users\lucas.augustini\source\repos\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\lucas.augustini\source\repos\WebAPI\bin\Debug\net8.0\Refit.dll
 C:\Users\lucas.augustini\source\repos\WebAPI\bin\Debug\net8.0\Refit.HttpClientFactory.dll
+C:\Users\lucas.augustini\source\repos\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

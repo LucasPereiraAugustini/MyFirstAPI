@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\integration\\interfaces\\iviacepintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:integration\\interfaces\\iviacepintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\integration\\viacepintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:integration\\viacepintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\integration\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:integration\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\integration\\refit\\iviacepintegrationrefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:integration\\refit\\iviacepintegrationrefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|c:\\users\\lucas.augustini\\source\\repos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DEEE02-AC16-41D3-9FB4-54FB1622FBAE}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViaCepIntegration.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\ViaCepIntegration.cs",
-              "RelativeDocumentMoniker": "Integration\\ViaCepIntegration.cs",
-              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\ViaCepIntegration.cs",
-              "RelativeToolTip": "Integration\\ViaCepIntegration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:29:57.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IViaCepIntegration.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Interfaces\\IViaCepIntegration.cs",
-              "RelativeDocumentMoniker": "Integration\\Interfaces\\IViaCepIntegration.cs",
-              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Interfaces\\IViaCepIntegration.cs",
-              "RelativeToolTip": "Integration\\Interfaces\\IViaCepIntegration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:28:52.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCEAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwDIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:21:57.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IViaCepIntegrationRefit.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Refit\\IViaCepIntegrationRefit.cs",
-              "RelativeDocumentMoniker": "Integration\\Refit\\IViaCepIntegrationRefit.cs",
-              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Refit\\IViaCepIntegrationRefit.cs",
-              "RelativeToolTip": "Integration\\Refit\\IViaCepIntegrationRefit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:13:02.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ViaCepResponse.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Response\\ViaCepResponse.cs",
-              "RelativeDocumentMoniker": "Integration\\Response\\ViaCepResponse.cs",
-              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Integration\\Response\\ViaCepResponse.cs",
-              "RelativeToolTip": "Integration\\Response\\ViaCepResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:07:24.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CepController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Controllers\\CepController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CepController.cs",
-              "ToolTip": "C:\\Users\\lucas.augustini\\source\\repos\\WebAPI\\Controllers\\CepController.cs",
-              "RelativeToolTip": "Controllers\\CepController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T13:04:55.386Z",
+              "WhenOpened": "2025-11-03T11:46:04.818Z",
               "EditorCaption": ""
             }
           ]
